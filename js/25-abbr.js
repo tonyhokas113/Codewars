@@ -1,6 +1,6 @@
 function abbrevName(name){
     const words = name.split(' ');
-    const abbr = return words[0][0] + '.' + words[1][0];
+    const abbr = words[0][0] + '.' + words[1][0];
         return abbr.toUpperCase();
     }
 
