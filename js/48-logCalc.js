@@ -3,8 +3,8 @@ function logicalCalc(array, op){
        if (op === 'AND') {
            
        }
+    }
 }
-
 
 console.log(logicalCalc([true, true, true, false], "AND"), false);
 console.log(logicalCalc([true, true, true, false], "OR"), true);
